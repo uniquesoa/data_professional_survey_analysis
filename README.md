@@ -1,6 +1,8 @@
 # Data Cleaning and Visualization Project 🚀
 
-<img src="https://via.placeholder.com/1000x300?text=Data+Cleaning+and+Visualization" alt="Data Cleaning Banner" width="100%">
+<div align="center">
+  <img src="Images/Survey Dashboard Image.jpg" alt="Data Cleaning Banner" width="100%">
+</div>
 
 ## 📋 **Overview**
 This repository contains tools and resources to clean, transform, and visualize data effectively. Using **Power BI** and **Excel**, the project demonstrates how to manage messy datasets and create meaningful insights through interactive dashboards.
@@ -27,13 +29,16 @@ This repository contains tools and resources to clean, transform, and visualize 
   *Donut chart showing salary ranges by difficulty of job opportunity.*
 
 - **Career Satisfaction vs Education**  
-  *Guage showing work/life balance in current position.*
+  *Gauge showing work/life balance in the current position.*
 
 ---
 
 ### **Sample Visualizations**
-<img src="Images/Sample Visualization 1a.JPG" alt="Sample Visualization 1" width="70%">
-<img src="Images/Sample Visualization 2.JPG" alt="Sample Visualization 2" width="70%">
+<div align="center">
+  <img src="Images/Sample Visualization 1a.JPG" alt="Sample Visualization 1" width="50%">
+  <br>
+  <img src="Images/Sample Visualization 2.JPG" alt="Sample Visualization 2" width="50%">
+</div>
 
 ---
 
@@ -42,4 +47,3 @@ This repository contains tools and resources to clean, transform, and visualize 
 - **`Data Set - Data Professional Survey`**: Raw dataset for analysis.
 
 ---
-
