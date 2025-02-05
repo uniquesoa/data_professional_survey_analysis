@@ -32,8 +32,8 @@ This repository contains tools and resources to clean, transform, and visualize 
 ---
 
 ### **Sample Visualizations**
-<img src="https://via.placeholder.com/800x400?text=Sample+Visualization+1" alt="Sample Visualization 1" width="100%">
-<img src="https://via.placeholder.com/800x400?text=Sample+Visualization+2" alt="Sample Visualization 2" width="100%">
+<img src="Images/Sample Visualization 1a.JPG" alt="Sample Visualization 1" width="70%">
+<img src="Images/Sample Visualization 2.JPG" alt="Sample Visualization 2" width="70%">
 
 ---
 
